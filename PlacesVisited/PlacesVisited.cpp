@@ -38,14 +38,18 @@ int main() {
 
 		case Visited::NiagaraFalls:
 			cout << "2: NiagaraFalls" << endl;
+			break;
 		
 		case Visited::Vermont:
 			cout << "3: Vermont" << endl;
-		
+			break;
+			
 		case Visited::NYC:
 			cout << "4: NYC" << endl;
+			break;
 		
 		}
+
 
 	}
 
